@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9kJw2pQKbYsOJKgwSnOD-2" value="审核（删除背景复杂图，无法标注图）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="240" y="205" width="120" height="90" as="geometry" />
+          <mxGeometry x="240" y="202.5" width="120" height="95" as="geometry" />
         </mxCell>
         <mxCell id="9kJw2pQKbYsOJKgwSnOD-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="9kJw2pQKbYsOJKgwSnOD-4" target="9kJw2pQKbYsOJKgwSnOD-6">
           <mxGeometry relative="1" as="geometry" />
