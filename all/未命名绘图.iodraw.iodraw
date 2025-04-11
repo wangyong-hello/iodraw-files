@@ -44,14 +44,14 @@
         <mxCell id="9kJw2pQKbYsOJKgwSnOD-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;数据上，补充识别不佳类别&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="353" y="92" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9kJw2pQKbYsOJKgwSnOD-15" value="王勇" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9kJw2pQKbYsOJKgwSnOD-15" value="小左，王勇" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="221" y="306" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9kJw2pQKbYsOJKgwSnOD-16" value="小潘&lt;br&gt;付哥" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="416" y="289" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9kJw2pQKbYsOJKgwSnOD-17" value="小左" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="61" y="286" width="60" height="30" as="geometry" />
+          <mxGeometry x="58" y="284" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
