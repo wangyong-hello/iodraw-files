@@ -53,10 +53,10 @@
         <mxCell id="9kJw2pQKbYsOJKgwSnOD-17" value="小左" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="58" y="284" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9kJw2pQKbYsOJKgwSnOD-18" value="王妮" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9kJw2pQKbYsOJKgwSnOD-18" value="王妮，王勇" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="584" y="293" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9kJw2pQKbYsOJKgwSnOD-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9kJw2pQKbYsOJKgwSnOD-19" value="王勇" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="768" y="287" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
