@@ -219,7 +219,7 @@
         <mxCell id="zVdU61eOJEbIWeeKwhKG-82" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Cheap operation&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1123.2130083356585" y="328.503659929548" width="158" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zVdU61eOJEbIWeeKwhKG-83" value="&lt;font style=&quot;font-size: 24px&quot;&gt;C3Ghost&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="zVdU61eOJEbIWeeKwhKG-83" value="&lt;font style=&quot;font-size: 24px&quot;&gt;C2f&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="732.2130083356585" y="409.503659929548" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zVdU61eOJEbIWeeKwhKG-84" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Ghost Conv(c_in,c_out,k,s)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
