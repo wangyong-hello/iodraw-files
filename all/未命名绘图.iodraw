@@ -433,7 +433,7 @@
         <mxCell id="zVdU61eOJEbIWeeKwhKG-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="zVdU61eOJEbIWeeKwhKG-137" target="zVdU61eOJEbIWeeKwhKG-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zVdU61eOJEbIWeeKwhKG-137" value="&lt;span style=&quot;font-size: 14px&quot;&gt;C3Ghost(128,128)*2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="zVdU61eOJEbIWeeKwhKG-137" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;C2f&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;(128,128)*2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="510.2130083356585" y="770.503659929548" width="158" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zVdU61eOJEbIWeeKwhKG-138" value="&lt;span style=&quot;font-size: 14px&quot;&gt;GhostConv(128,256,3,2)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
