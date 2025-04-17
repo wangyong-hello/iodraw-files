@@ -152,7 +152,7 @@
           <mxGeometry x="962.2130083356585" y="1076.5036599295481" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zVdU61eOJEbIWeeKwhKG-49" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Conv2d(256,na*(nc+5),1,1)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="1206.0030083356585" y="758.003659929548" width="146" height="43" as="geometry" />
+          <mxGeometry x="1148.0030083356585" y="760.003659929548" width="146" height="43" as="geometry" />
         </mxCell>
         <mxCell id="zVdU61eOJEbIWeeKwhKG-50" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Conv2d(512,na*(nc+5),1,1)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1148.0030083356585" y="914.003659929548" width="142" height="43" as="geometry" />
@@ -249,7 +249,7 @@
         <mxCell id="zVdU61eOJEbIWeeKwhKG-104" value="&lt;span style=&quot;font-size: 18px&quot;&gt;19&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1086.2130083356585" y="815.503659929548" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zVdU61eOJEbIWeeKwhKG-105" value="&lt;span style=&quot;font-size: 18px&quot;&gt;27&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="zVdU61eOJEbIWeeKwhKG-105" value="&lt;span style=&quot;font-size: 18px&quot;&gt;22&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1092.2130083356585" y="972.503659929548" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zVdU61eOJEbIWeeKwhKG-106" value="&lt;span style=&quot;font-size: 18px&quot;&gt;28&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
