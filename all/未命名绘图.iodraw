@@ -61,12 +61,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zVdU61eOJEbIWeeKwhKG-20" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Upsample(128)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="723.2130083356585" y="815.503659929548" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zVdU61eOJEbIWeeKwhKG-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" parent="1" target="zVdU61eOJEbIWeeKwhKG-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="807.6923076923076" y="867.5036599295481" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="723.2130083356585" y="841.003659929548" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zVdU61eOJEbIWeeKwhKG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="zVdU61eOJEbIWeeKwhKG-25" edge="1">
           <mxGeometry relative="1" as="geometry">
