@@ -634,8 +634,8 @@
         <mxCell id="QvArKxAzz_huxUwX2lBI-71" value="&lt;span style=&quot;font-size: 18px&quot;&gt;6&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="789.0030083356585" y="2566.003659929548" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QvArKxAzz_huxUwX2lBI-72" value="&lt;span style=&quot;font-size: 18px&quot;&gt;15&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1019.0030083356585" y="2743.003659929548" width="60" height="30" as="geometry" />
+        <mxCell id="QvArKxAzz_huxUwX2lBI-72" value="&lt;span style=&quot;font-size: 18px&quot;&gt;15&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1019" y="2742" width="60" height="31" as="geometry" />
         </mxCell>
         <mxCell id="QvArKxAzz_huxUwX2lBI-73" value="&lt;span style=&quot;font-size: 18px&quot;&gt;14&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1017.7930083356584" y="2675.503659929548" width="60" height="30" as="geometry" />
