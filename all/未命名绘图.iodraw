@@ -824,8 +824,8 @@
         <mxCell id="QvArKxAzz_huxUwX2lBI-130" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;BottleNeck&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="1119.7930083356584" y="2144.503659929548" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QvArKxAzz_huxUwX2lBI-131" value="&lt;span style=&quot;font-size: 14px&quot;&gt;SPPF(512)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="664.0030083356585" y="2768.003659929548" width="157" height="30" as="geometry" />
+        <mxCell id="QvArKxAzz_huxUwX2lBI-131" value="&lt;span style=&quot;font-size: 14px&quot;&gt;ECA&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="651.0030083356585" y="2797.003659929548" width="157" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
