@@ -959,6 +959,9 @@
         <mxCell id="QvArKxAzz_huxUwX2lBI-170" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="714" y="393" width="651" height="311.93" as="geometry" />
         </mxCell>
+        <mxCell id="QvArKxAzz_huxUwX2lBI-173" value="f" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1153" y="400" width="202" height="300" as="geometry" />
+        </mxCell>
         <mxCell id="QvArKxAzz_huxUwX2lBI-190" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;entryX=0.001;entryY=0.179;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1102" y="784" as="sourcePoint" />
@@ -973,14 +976,6 @@
         </mxCell>
         <mxCell id="QvArKxAzz_huxUwX2lBI-176" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Conv2d(c_in,c_out,k,s)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="QvArKxAzz_huxUwX2lBI-192">
           <mxGeometry x="5.01" y="39.03" width="142.99" height="24.91" as="geometry" />
-        </mxCell>
-        <mxCell id="QvArKxAzz_huxUwX2lBI-187" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QvArKxAzz_huxUwX2lBI-192" source="QvArKxAzz_huxUwX2lBI-179" target="QvArKxAzz_huxUwX2lBI-183">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="72.55598455598457" y="117.08771929824562" />
-              <mxPoint x="73.3899613899614" y="117.08771929824562" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="QvArKxAzz_huxUwX2lBI-179" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Conv2d(c_in,c_out,k,s)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="QvArKxAzz_huxUwX2lBI-192">
           <mxGeometry x="4" y="80.55" width="145" height="24.91" as="geometry" />
