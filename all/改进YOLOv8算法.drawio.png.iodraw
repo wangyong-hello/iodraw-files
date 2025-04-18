@@ -692,9 +692,6 @@
         <mxCell id="wnJ1fd7FEiNe69pdZfJb-383" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;C2fGAM&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;(256,256)*3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wnJ1fd7FEiNe69pdZfJb-163">
           <mxGeometry x="58.50018526850522" y="848.75" width="158.0005046969625" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="wnJ1fd7FEiNe69pdZfJb-397" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wnJ1fd7FEiNe69pdZfJb-163" source="wnJ1fd7FEiNe69pdZfJb-386" target="wnJ1fd7FEiNe69pdZfJb-188">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="wnJ1fd7FEiNe69pdZfJb-386" value="&lt;span style=&quot;font-size: 18px&quot;&gt;11&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wnJ1fd7FEiNe69pdZfJb-163">
           <mxGeometry x="201.79063566262994" y="902" width="60.00019165707437" height="31" as="geometry" />
         </mxCell>
