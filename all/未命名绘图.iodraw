@@ -1604,14 +1604,14 @@
             <mxPoint x="128" y="213" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QvArKxAzz_huxUwX2lBI-374" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;dashed=1;strokeWidth=2;" vertex="1" parent="QvArKxAzz_huxUwX2lBI-367">
+          <mxGeometry x="-34.00300833565848" y="2.9963400704519927" width="294" height="210" as="geometry" />
+        </mxCell>
         <mxCell id="QvArKxAzz_huxUwX2lBI-372" value="&lt;span style=&quot;font-size: 14px&quot;&gt;SiLU&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QvArKxAzz_huxUwX2lBI-367">
           <mxGeometry x="49" y="153" width="158" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QvArKxAzz_huxUwX2lBI-373" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Conv(c_in,c_out,k,s)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="QvArKxAzz_huxUwX2lBI-367">
           <mxGeometry width="260" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QvArKxAzz_huxUwX2lBI-374" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;dashed=1;strokeWidth=2;" vertex="1" parent="QvArKxAzz_huxUwX2lBI-367">
-          <mxGeometry x="-34.00300833565848" y="2.9963400704519927" width="294" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
