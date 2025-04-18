@@ -499,7 +499,10 @@
           <mxGeometry x="200.00063566263" y="849.25" width="60.00019165707437" height="31" as="geometry" />
         </mxCell>
         <mxCell id="wnJ1fd7FEiNe69pdZfJb-325" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Upsample(256)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wnJ1fd7FEiNe69pdZfJb-163">
-          <mxGeometry x="274.67087363683066" y="638" width="166.0005302512391" height="30" as="geometry" />
+          <mxGeometry x="276.00087363683065" y="628.5" width="166.0005302512391" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wnJ1fd7FEiNe69pdZfJb-597" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wnJ1fd7FEiNe69pdZfJb-163" source="wnJ1fd7FEiNe69pdZfJb-326" target="wnJ1fd7FEiNe69pdZfJb-328">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wnJ1fd7FEiNe69pdZfJb-326" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Concat(128*2)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="wnJ1fd7FEiNe69pdZfJb-163">
           <mxGeometry x="275.5" y="565" width="166.5" height="33" as="geometry" />
