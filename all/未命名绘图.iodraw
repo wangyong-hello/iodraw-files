@@ -1005,8 +1005,8 @@
             <mxPoint x="1145.42879" y="784.5699999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QvArKxAzz_huxUwX2lBI-191" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1359" y="880" width="60" height="30" as="geometry" />
+        <mxCell id="QvArKxAzz_huxUwX2lBI-191" value="If shortcut==True" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1187" y="398" width="239" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
