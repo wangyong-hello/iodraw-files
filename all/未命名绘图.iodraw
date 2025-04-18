@@ -1614,7 +1614,7 @@
           <mxGeometry width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QvArKxAzz_huxUwX2lBI-384" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1370.9969916643415" y="334.003659929548" width="941.7869916643415" height="982.5000000000001" as="geometry" />
+          <mxGeometry x="-1382.9969916643415" y="1371.0036599295481" width="941.7869916643415" height="982.5000000000001" as="geometry" />
         </mxCell>
         <mxCell id="QvArKxAzz_huxUwX2lBI-385" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;dashed=1;strokeWidth=2;" vertex="1" parent="QvArKxAzz_huxUwX2lBI-384">
           <mxGeometry x="261.7869916643415" y="217.996340070452" width="651" height="311.93" as="geometry" />
@@ -1694,16 +1694,6 @@
         </mxCell>
         <mxCell id="QvArKxAzz_huxUwX2lBI-409" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Upsample(256)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QvArKxAzz_huxUwX2lBI-384">
           <mxGeometry x="274" y="900.0000000000001" width="166" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QvArKxAzz_huxUwX2lBI-410" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;exitX=0.432;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="QvArKxAzz_huxUwX2lBI-384" source="QvArKxAzz_huxUwX2lBI-394" target="QvArKxAzz_huxUwX2lBI-423">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="442.0000000000002" y="917.5348016089134" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="126.78699166434149" y="952.996340070452" />
-              <mxPoint x="485.7869916643415" y="952.996340070452" />
-              <mxPoint x="485.7869916643415" y="864.996340070452" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="QvArKxAzz_huxUwX2lBI-411" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="QvArKxAzz_huxUwX2lBI-384" source="QvArKxAzz_huxUwX2lBI-412" target="QvArKxAzz_huxUwX2lBI-414">
           <mxGeometry relative="1" as="geometry" />
