@@ -272,7 +272,7 @@
         <mxCell id="wnJ1fd7FEiNe69pdZfJb-399" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wnJ1fd7FEiNe69pdZfJb-163" source="wnJ1fd7FEiNe69pdZfJb-262" target="wnJ1fd7FEiNe69pdZfJb-186">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wnJ1fd7FEiNe69pdZfJb-262" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;C2fGAM&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;(512,512)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wnJ1fd7FEiNe69pdZfJb-163">
+        <mxCell id="wnJ1fd7FEiNe69pdZfJb-262" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;C2fGAM&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;(384,384)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wnJ1fd7FEiNe69pdZfJb-163">
           <mxGeometry x="56.00018526850523" y="745.5000000000001" width="158.0005046969625" height="31" as="geometry" />
         </mxCell>
         <mxCell id="wnJ1fd7FEiNe69pdZfJb-263" value="&lt;span style=&quot;font-size: 18px&quot;&gt;7&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wnJ1fd7FEiNe69pdZfJb-163">
