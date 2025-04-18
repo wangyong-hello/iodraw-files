@@ -1347,9 +1347,9 @@
         <mxCell id="QvArKxAzz_huxUwX2lBI-633" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" edge="1" parent="QvArKxAzz_huxUwX2lBI-541" source="QvArKxAzz_huxUwX2lBI-635" target="QvArKxAzz_huxUwX2lBI-563">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="136.78699166434149" y="761.996340070452" />
-              <mxPoint x="239.78699166434149" y="761.996340070452" />
-              <mxPoint x="239.78699166434149" y="833.996340070452" />
+              <mxPoint x="137" y="762" />
+              <mxPoint x="240" y="762" />
+              <mxPoint x="240" y="849" />
             </Array>
           </mxGeometry>
         </mxCell>
