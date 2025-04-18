@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wnJ1fd7FEiNe69pdZfJb-609" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="600" width="960" height="1150" as="geometry" />
+        </mxCell>
         <mxCell id="wnJ1fd7FEiNe69pdZfJb-177" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1290" y="1190" width="470" height="510" as="geometry" />
         </mxCell>
@@ -698,9 +701,6 @@
         </mxCell>
         <mxCell id="wnJ1fd7FEiNe69pdZfJb-162" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;改进YOLOV8算法&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1210" y="599.9962144946576" width="210" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="wnJ1fd7FEiNe69pdZfJb-609" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1610" y="490" width="1010" height="1260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
