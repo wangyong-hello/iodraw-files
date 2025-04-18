@@ -1075,7 +1075,7 @@
         <mxCell id="QvArKxAzz_huxUwX2lBI-548" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" edge="1" parent="QvArKxAzz_huxUwX2lBI-541" source="QvArKxAzz_huxUwX2lBI-549" target="QvArKxAzz_huxUwX2lBI-625">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QvArKxAzz_huxUwX2lBI-549" value="&lt;span style=&quot;font-size: 14px&quot;&gt;C2f(64,64)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QvArKxAzz_huxUwX2lBI-541">
+        <mxCell id="QvArKxAzz_huxUwX2lBI-549" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;C2fGAM&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;(64,64)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QvArKxAzz_huxUwX2lBI-541">
           <mxGeometry x="58" y="461.5" width="158" height="28" as="geometry" />
         </mxCell>
         <mxCell id="QvArKxAzz_huxUwX2lBI-550" value="&lt;span style=&quot;font-size: 14px&quot;&gt;SPPF(512)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QvArKxAzz_huxUwX2lBI-541">
