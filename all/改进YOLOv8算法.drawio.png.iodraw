@@ -260,9 +260,13 @@
             <Array as="points">
               <mxPoint x="240" y="761" />
               <mxPoint x="240" y="916" />
-              <mxPoint x="270" y="916" />
-              <mxPoint x="270" y="924" />
+              <mxPoint x="273" y="916" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wnJ1fd7FEiNe69pdZfJb-395" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnJ1fd7FEiNe69pdZfJb-393">
+          <mxGeometry x="0.9542" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wnJ1fd7FEiNe69pdZfJb-262" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;C2fGAM&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;(512,512)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wnJ1fd7FEiNe69pdZfJb-163">
