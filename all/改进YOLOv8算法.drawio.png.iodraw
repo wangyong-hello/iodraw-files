@@ -8,7 +8,7 @@
           <mxGeometry x="-1112" y="550.0462144946576" width="210" height="41" as="geometry" />
         </mxCell>
         <mxCell id="wnJ1fd7FEiNe69pdZfJb-177" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-1300" y="1178.32" width="480" height="531.68" as="geometry" />
+          <mxGeometry x="-1280" y="1178.32" width="460" height="501.68" as="geometry" />
         </mxCell>
         <mxCell id="wnJ1fd7FEiNe69pdZfJb-355" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="wnJ1fd7FEiNe69pdZfJb-345">
           <mxGeometry relative="1" as="geometry">
@@ -70,10 +70,8 @@
         <mxCell id="wnJ1fd7FEiNe69pdZfJb-176" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Backbone&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="wnJ1fd7FEiNe69pdZfJb-163">
           <mxGeometry x="30.000095828537184" y="230.5" width="60.00019165707437" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wnJ1fd7FEiNe69pdZfJb-324" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="wnJ1fd7FEiNe69pdZfJb-163" source="wnJ1fd7FEiNe69pdZfJb-179">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="355.5" y="729.81" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="wnJ1fd7FEiNe69pdZfJb-324" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="wnJ1fd7FEiNe69pdZfJb-163" source="wnJ1fd7FEiNe69pdZfJb-179" target="wnJ1fd7FEiNe69pdZfJb-190">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wnJ1fd7FEiNe69pdZfJb-179" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Concat(128*2)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="wnJ1fd7FEiNe69pdZfJb-163">
           <mxGeometry x="268.50085766540775" y="744.5" width="170.0005430283774" height="30" as="geometry" />
@@ -103,6 +101,9 @@
         </mxCell>
         <mxCell id="wnJ1fd7FEiNe69pdZfJb-188" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Upsample(256)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wnJ1fd7FEiNe69pdZfJb-163">
           <mxGeometry x="275.5008800253998" y="947.0000000000001" width="166.0005302512391" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wnJ1fd7FEiNe69pdZfJb-190" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;C2f&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;(256,128)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wnJ1fd7FEiNe69pdZfJb-163">
+          <mxGeometry x="280" y="697" width="160" height="33" as="geometry" />
         </mxCell>
         <mxCell id="wnJ1fd7FEiNe69pdZfJb-208" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Output&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="wnJ1fd7FEiNe69pdZfJb-163">
           <mxGeometry x="730.0023957134297" y="530.5" width="60.00019165707437" height="30" as="geometry" />
@@ -694,9 +695,6 @@
         </mxCell>
         <mxCell id="wnJ1fd7FEiNe69pdZfJb-161" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1720" y="-620" width="938" height="1083" as="geometry" />
-        </mxCell>
-        <mxCell id="wnJ1fd7FEiNe69pdZfJb-587" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;C2f&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;(512,256)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1279.9991263631694" y="1370" width="165.00052705695452" height="27.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
