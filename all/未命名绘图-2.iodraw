@@ -111,7 +111,7 @@
         <mxCell id="SexWqKp5Q92Jn2Nq5gP_-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="SexWqKp5Q92Jn2Nq5gP_-5" source="SexWqKp5Q92Jn2Nq5gP_-36" target="SexWqKp5Q92Jn2Nq5gP_-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SexWqKp5Q92Jn2Nq5gP_-36" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Concat(256*3)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SexWqKp5Q92Jn2Nq5gP_-5">
+        <mxCell id="SexWqKp5Q92Jn2Nq5gP_-36" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;BiFPN&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;(256*3)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SexWqKp5Q92Jn2Nq5gP_-5">
           <mxGeometry x="500" y="692.5" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SexWqKp5Q92Jn2Nq5gP_-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="SexWqKp5Q92Jn2Nq5gP_-5" source="SexWqKp5Q92Jn2Nq5gP_-39" target="SexWqKp5Q92Jn2Nq5gP_-41">
