@@ -276,7 +276,7 @@
         <mxCell id="SexWqKp5Q92Jn2Nq5gP_-260" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;FPN&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1860" y="2040" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SexWqKp5Q92Jn2Nq5gP_-263" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;重复模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SexWqKp5Q92Jn2Nq5gP_-263" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;重复模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1210" y="1390" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
