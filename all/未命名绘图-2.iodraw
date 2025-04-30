@@ -222,12 +222,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SexWqKp5Q92Jn2Nq5gP_-228" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="SexWqKp5Q92Jn2Nq5gP_-228" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="SexWqKp5Q92Jn2Nq5gP_-188">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2130" y="2140" as="sourcePoint" />
             <mxPoint x="-2080" y="2090" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-2080" y="2140" />
+              <mxPoint x="-2060" y="2150" />
+              <mxPoint x="-2050" y="2160" />
               <mxPoint x="-2130" y="2090" />
             </Array>
           </mxGeometry>
