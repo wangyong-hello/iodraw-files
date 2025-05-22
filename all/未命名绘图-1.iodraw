@@ -601,6 +601,11 @@
         <mxCell id="cJsoLiYtRjSR1-Ws4XYN-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;BottleNeck&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="cJsoLiYtRjSR1-Ws4XYN-18">
           <mxGeometry x="177.2085179518562" y="49.46241330069364" width="128.48684210526315" height="30.581395348837212" as="geometry" />
         </mxCell>
+        <mxCell id="cJsoLiYtRjSR1-Ws4XYN-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cJsoLiYtRjSR1-Ws4XYN-18" source="cJsoLiYtRjSR1-Ws4XYN-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="329.5259543467987" y="64.24342105263122" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cJsoLiYtRjSR1-Ws4XYN-24" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Concat(2*c_in)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="cJsoLiYtRjSR1-Ws4XYN-18">
           <mxGeometry x="226.15927453080377" y="48.952723378212966" width="128.48684210526315" height="30.581395348837212" as="geometry" />
         </mxCell>
@@ -654,9 +659,6 @@
         </mxCell>
         <mxCell id="cJsoLiYtRjSR1-Ws4XYN-33" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Conv(c_in,c_out,1,1)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="cJsoLiYtRjSR1-Ws4XYN-18">
           <mxGeometry x="281.9995376886982" y="50.39148306813513" width="128.48684210526315" height="30.581395348837212" as="geometry" />
-        </mxCell>
-        <mxCell id="cJsoLiYtRjSR1-Ws4XYN-34" value="&lt;span style=&quot;font-size: 14px&quot;&gt;GAM注意力&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="cJsoLiYtRjSR1-Ws4XYN-18">
-          <mxGeometry x="333.9995376886982" y="51.781483068135" width="128.48684210526315" height="30.581395348837212" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
