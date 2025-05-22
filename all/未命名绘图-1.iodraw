@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IoW4bsjIYbConEuIl__i-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="2800" width="300" height="390" as="geometry" />
+        </mxCell>
         <mxCell id="IoW4bsjIYbConEuIl__i-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 24px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;C2f卷积模块&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="2850" width="180" height="40" as="geometry" />
         </mxCell>
@@ -89,9 +92,6 @@
         </mxCell>
         <mxCell id="IoW4bsjIYbConEuIl__i-17" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Conv(c_in,c_out,1,1)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="1360.99766625867" y="3147.0031680946554" width="128.48684210526315" height="30.581395348837212" as="geometry" />
-        </mxCell>
-        <mxCell id="IoW4bsjIYbConEuIl__i-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="2770" width="390" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
